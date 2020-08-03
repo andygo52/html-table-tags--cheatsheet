@@ -39,5 +39,8 @@ th {
     font-family: 'Open Sans', sans-serif;
 }
 
-
+tfoot td {
+    text-align: center;
+    background-color: rgba(112, 135, 209, .5);
+}
 
